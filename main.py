@@ -77,7 +77,7 @@ def admin_only(function):
 
     def inner_function(*args, **kwargs):
         if current_user.id == 1:
-            return function()
+            return function(*args, **kwargs)
         else:
             return abort(403)
     return inner_function
