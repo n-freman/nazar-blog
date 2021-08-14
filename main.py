@@ -70,7 +70,7 @@ class Comment(db.Model):
 ##CREATE TABLE IN DB
 
 #Line below only required once, when creating DB. 
-db.create_all()
+# db.create_all()
 
 
 def admin_only(function):
