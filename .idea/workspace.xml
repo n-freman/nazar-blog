@@ -27,8 +27,8 @@
       <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64791286">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.6787659">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -147,7 +147,13 @@
       <option name="project" value="LOCAL" />
       <updated>1628934603273</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" deleted">
+      <created>1628934779244</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628934779244</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -189,7 +195,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add gunicorn" />
     <MESSAGE value="Python version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python version" />
+    <MESSAGE value=" deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value=" deleted" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -206,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64791286">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.6787659">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
           <folding />
         </state>
       </provider>
